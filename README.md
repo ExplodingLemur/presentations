@@ -11,10 +11,10 @@ Podcast appearances
 
 * [ADS-B - Ham Radio 360](http://hamradio360.com/index.php/2017/06/13/ham-radio-360-ads-b-with-nick-kk6lhr/)
 * [Holiday Shopping Show - Ham Radio Workbench](https://www.hamradioworkbench.com/podcast/2017-christmas-shopping-show)
-* [Infosec - Embedded.fm:](https://embedded.fm/episodes/229)
+* [Infosec - Embedded.fm](https://embedded.fm/episodes/229)
 * [Spectrum Analyzers - Ham Radio Workbench](https://www.hamradioworkbench.com/podcast/spectrum-analyzers)
+* [Intro to Networking & Network Security (for ham radio)](https://www.hamradioworkbench.com/podcast/introduction-to-networking-and-network-security)
 * [Solar Power - Ham Radio Workbench](https://www.hamradioworkbench.com/podcast/solar-power)
-
 
 # Livechats
 Online chats
