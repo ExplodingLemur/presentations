@@ -15,6 +15,7 @@ Podcast appearances
 * [Spectrum Analyzers - Ham Radio Workbench](https://www.hamradioworkbench.com/podcast/spectrum-analyzers)
 * [Intro to Networking & Network Security (for ham radio)](https://www.hamradioworkbench.com/podcast/introduction-to-networking-and-network-security)
 * [Solar Power - Ham Radio Workbench](https://www.hamradioworkbench.com/podcast/solar-power)
+* [100th Episode - Ham Radio Workbench](https://www.hamradioworkbench.com/podcast/century-club)
 
 # Livechats
 Online chats
